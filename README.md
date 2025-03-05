@@ -1,7 +1,7 @@
 ### About Me:
 ## Basic information:
-Username="Radioactiverm"
-Age='16'
+Username="Radioactiverm" \n
+Age='16' \n
 Country="Czech Republic"
 ## Hobbies:
 <!--
