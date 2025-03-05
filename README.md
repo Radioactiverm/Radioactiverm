@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate pen-tester, builder and developer
 ## 🧑‍💻 | Skills & Technologies
 
 - **Programming Languages**: Python, HTML
-- **Embedded Development**: Arduino, M5Stack, Raspberry Pi
+- **Embedded Development**: Arduino, M5Stack, Raspberry Pi, Espressif
 - **Operating Systems**: Arch Linux, Kali Linux, Windows (triple boot)
 - **Tools**: Git, Docker, Visual Studio Code, Kali NetHunter, Flipper Zero, etc.
 
