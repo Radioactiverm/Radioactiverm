@@ -1,13 +1,11 @@
-# Hi, I'm Tobias 👋
+# ✅ | Hi, my name is Tobias
 
-Welcome to my GitHub profile! I'm a passionate maker, hacker, and developer with a focus on hardware, open-source software, and creative tinkering. Here you'll find a variety of projects ranging from custom firmware for devices like the **M5StickC** to **Linux-based tools** and **pen-testing setups**. Feel free to explore, fork, or contribute!
+Welcome to my GitHub profile! I'm a passionate pen-tester, builder and developer, i work with certain devices and devkits like the **[Flipper Zero](https://github.com/flipperdevices/flipperzero-firmware)** , **[M5StickC](https://github.com/m5stack/M5StickCPlus2)** , **[ESP32](https://github.com/espressif/arduino-esp32)**
 
 ## 🛠️ Current Projects
 
-- **[Custom M5StickC Firmware](#)**: Firmware for controlling media, hacking via deauth, Evil Portal, and jamming using NRF24.
-- **[Minecraft Server on Raspberry Pi](#)**: A Raspberry Pi 4-based server running a Minecraft setup with performance monitoring via I2C LCD.
-- **[XMRig Mining Automation](#)**: A script for toggling Monero mining on/off with customizable resource usage.
-- **[Steam Cache Server](#)**: Optimizing game installations for LAN parties, particularly for CS2 and other Steam games.
+- **[Building the Bluejammer form @Emensta](https://github.com/EmenstaNougat/ESP32-BlueJammer)**: An ESP32 and NRF24 tool that jamms the 2.4Ghz band
+- **[Minecraft Server on Raspberry Pi](https://github.com/Cat5TV/pinecraft)**: A Raspberry Pi 4-based server running a Minecraft setup with performance monitoring via I2C LCD.
 
 ## 🌱 What I'm Currently Learning
 
