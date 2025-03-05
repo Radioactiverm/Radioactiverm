@@ -1,5 +1,9 @@
-## Hi there 👋
-
+### About Me:
+## Basic information:
+Username="Radioactiverm"
+Age='16'
+Country="Czech Republic"
+## Hobbies:
 <!--
 **Radioactiverm/Radioactiverm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
