@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate pen-tester, builder and developer
 
 - **[Building the Bluejammer form @Emensta](https://github.com/EmenstaNougat/ESP32-BlueJammer)**: An ESP32 and NRF24 tool that jamms the 2.4Ghz band
 - **[Minecraft Server on Raspberry Pi](https://github.com/Cat5TV/pinecraft)**: A Raspberry Pi 4-based server running a Minecraft setup with performance monitoring via I2C LCD.
+- A Flipper Zero Bad Usb payloads: Keyloggers etc.
 
 ## 🌱 | What I'm Currently Learning
 
