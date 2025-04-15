@@ -29,5 +29,4 @@ Welcome to my GitHub profile! I'm a passionate pen-tester, builder and developer
 
 ---
 
-> "Are you a 1? Or are you a 0?"  
 > Fuck society.
