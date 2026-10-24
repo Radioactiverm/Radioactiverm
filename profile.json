@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "login": "radioactiverm",
+  "seed": "#50D101",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "streak",
+    "stats",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Radioactiverm",
+    "subtitle": "I build automation, apps, websites.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:linux",
+        "label": "Homelabbing"
+      },
+      {
+        "icon": "electric_bolt",
+        "label": "Electrical"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Junior Dev"
+      },
+      {
+        "icon": "code",
+        "label": "Frontend & Backend"
+      },
+      {
+        "icon": "palette",
+        "label": "Material 3"
+      },
+      {
+        "icon": "brand:homeassistant",
+        "label": "Home Automation"
+      },
+      {
+        "icon": "brand:linux",
+        "label": "Homelabing"
+      },
+      {
+        "icon": "brand:espressif",
+        "label": "Microcontrolers"
+      },
+      {
+        "icon": "brand:tryhackme",
+        "label": "Pentesting"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "code",
+            "label": "JSON"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "Claude"
+          },
+          {
+            "icon": "brand:obsidian",
+            "label": "Obsidian"
+          },
+          {
+            "icon": "brand:proxmox",
+            "label": "Proxmox"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "dpmj-api",
+      "Radioactiverm",
+      "flipper-fsociety-asset-pack"
+    ],
+    "overrides": {
+      "Radioactiverm": {}
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "mail",
+        "url": "me@radioactiverm.net"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://radioactiverm.net",
+        "style": "filled"
+      },
+      {
+        "icon": "bus_map_pin",
+        "label": "KdeJeBus.cz",
+        "url": "https://kdejebus.cz",
+        "style": "filled"
+      },
+      {
+        "icon": "folder_open",
+        "label": "All Repos",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
